@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    height: 100%;
+    background-color: gray;
+    padding: 100px;
+    text-align: center;
+}
+
+canvas{
+    border: 2px solid black;
+    background: linear-gradient(352deg, rgba(238,238,238,1) 0%, rgba(96,87,87,1) 100%);
+}
+button{
+    background-color: red;
+    color: yellow;
+    padding: 20px 40px;
+    margin-bottom: 50px;
+    border-radius: 10px;
+    border: none;
+    font-size: 30px
+    
+}
